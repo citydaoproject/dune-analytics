@@ -4,6 +4,8 @@ This is the offical Dune-Anayltics repo of CityDAO. Here we track and catalog Di
 
 Are we missing a Board? Then fork the project and put your Dune-Analytics Board and Queries!
 
+We will take a look and merge it!
+
 ## Contract address
 ### CitizenNFT Contract
 * Address: 0x7EeF591A6CC0403b9652E98E88476fe1bF31dDeb
